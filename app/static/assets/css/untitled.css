@@ -1,3 +1,30 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Bayard75 
+Bayard75
+/
+triplodocus
+1
+00
+ Code
+ Issues 0
+ Pull requests 0 Actions
+ Projects 0
+ Wiki
+ Security 0
+ Insights
+ Settings
+triplodocus/app/static/assets/css/untitled.css
+ Bayard75 site fonctionnel en web
+8542316 7 days ago
+178 lines (151 sloc)  2.68 KB
+  
 #logo_1 {
   background: tra;
 }
@@ -83,8 +110,7 @@ body {
 }
 
 .row.titre_row {
-  width: 1503px;
-  height: 520px;
+
   background: #8E0303 0% 0% no-repeat padding-box;
   opacity: 1;
 }
@@ -176,3 +202,7 @@ body {
   max-height: 195px;
 }
 
+iframe{
+  border-radius: 15px;
+
+}
