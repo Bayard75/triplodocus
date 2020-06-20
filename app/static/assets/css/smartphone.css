@@ -1,5 +1,8 @@
 /* smartphone view */
-
+body{
+  background: #F7F1E9 0% 0% no-repeat padding-box;
+opacity: 1;
+}
 @media (max-width:767px ) {
   #trioploVert {
     max-width: 300px;
